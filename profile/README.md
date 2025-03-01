@@ -23,7 +23,7 @@ Nossa missão é **criar soluções tecnológicas que sejam intuitivas, inovador
 ---
 
 ## 🎯 **Objetivo**  
-Sermos reconhecidos como um grupo inovador e colaborativo, que transforma ideias em produtos digitais de excelência, ajudando empresas e indivíduos a alcançar seus objetivos.
+Sermos reconhecidos como um grupo inovador e colaborativo, que transforma ideias em produtos digitais de excelência, ajudando empresas e indivíduos a alcançarem seus objetivos.
 
 ---
 
